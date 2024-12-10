@@ -96,7 +96,7 @@ section {
     background-repeat: no-repeat;
     margin-bottom: 2rem;
     overflow: hidden;
-    transition: background-image 1s ease-in-out; /* Smooth background transition */
+    transition: background-image 0s ease-in-out; /* Smooth background transition */
 }
 
 section h2,
