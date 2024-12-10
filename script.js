@@ -9,7 +9,7 @@ function cycleBackgrounds(sectionId, images) {
 
         // Increment index or reset to 0
         index = (index + 1) % images.length;
-    }, 3000); // Change every 3 seconds
+    }, 6000); // Change every 3 seconds
 }
 
 // Smooth scrolling for navigation
